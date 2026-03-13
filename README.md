@@ -26,7 +26,7 @@ Based on the data analysis, the following high-impact insights were identified f
 ## 🔍 3. Predictive Analytics: At-Risk Customers
 Using a **Random Forest model**, we identified current customers with a high probability of leaving.
 
-![Predictive Table](prediction.png)
+![Predictive Table](Prediction.png)
 > **Actionable Output:** The model generated a "Target List" of **378 high-risk customers**, allowing the retention team to focus their efforts where they matter most.
 
 ---
